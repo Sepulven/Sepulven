@@ -8,7 +8,5 @@
 ## Current projects:
 	1. Start-Upper pages;
 	2. Start-Upper;
-	3. Fractol.
-## Projects I want to improve 
-	1. ft_print: I can make it fit into one file;
-	2. minitalk: There are functions that could be rewritten.
+	3. Push_swap.
+	
