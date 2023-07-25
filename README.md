@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sepulven&label=Profile%20views&color=1a5fb4&style=flat" alt="sepulven" /> </p>
 
-- 🔭 I’m currently working on [Start Upper](https://github.com/Sepulven/Start-Upper.git)
+- 🔭 I’m currently working on [Philosophers](https://github.com/Sepulven/Philosophers.git)
 
 - 🌱 I’m currently learning **VueJS**
 
