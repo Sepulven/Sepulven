@@ -3,13 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sepulven&label=Profile%20views&color=1a5fb4&style=flat" alt="sepulven" /> </p>
 
-- 🔭 I’m currently working on [Philosophers](https://github.com/Sepulven/Philosophers.git)
+- 🔭 I’m currently working on [Puraceramica](www.puraceramica.pt)
 
-- 🌱 I’m currently learning **VueJS**
+- 🌱 I’m currently learning **VueJS** and **C++**
 
 - 👯 I’m looking to collaborate on [MiniRT](https://github.com/Sepulven/MiniRT.git)
-
-- 🤝 I’m looking for help with [Philosophers](https://github.com/Sepulven/Philosophers.git)
 
 - 📫 How to reach me **sepulven40028922@gmail.com**
 
