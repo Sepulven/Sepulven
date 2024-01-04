@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **VueJS** and **C++**
 
-- 👯 I’m looking to collaborate on [MiniRT](https://github.com/Sepulven/MiniRT.git)
-
 - 📫 How to reach me **sepulven40028922@gmail.com**
 
 - ⚡ Fun fact **I think I am funny.**
