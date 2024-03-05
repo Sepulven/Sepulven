@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Puraceramica](www.puraceramica.pt) and webserv.
 
-- 🌱 I’m currently learning **VueJS** and **C++**
+- 🌱 I’m currently learning **VueJS**, **Nuxt3** and **C++**
 
 - 📫 How to reach me **sepulven40028922@gmail.com**
 
