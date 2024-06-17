@@ -1,9 +1,12 @@
 <h1 align="center">Hi 👋, I'm Arthur Aguiar</h1>
-<h3 align="center">I'm interested in the possibility of creating. I fall in love with programming very much daily.  We're magicians capable of casting spells.</h3>
+<h2 align="center">I'm interested in the possibility of creating. I fall in love with programming very much daily.  We're magicians capable of casting spells.</h3>
+
+<h4 align="center">“The technology you use impresses no one. The experience you create with it is everything.”</h4>
+<h5 align="center"> — Sean Gerety”</h5>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sepulven&label=Profile%20views&color=1a5fb4&style=flat" alt="sepulven" /> </p>
 
-- 🔭 I’m currently working on [Puraceramica](www.puraceramica.pt) and webserv.
+- 🔭 I’m currently working on [Puraceramica](www.puraceramica.pt) and Inception.
 
 - 🌱 I’m currently learning **VueJS**, **Nuxt3** and **C++**
 
@@ -19,9 +22,4 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sepulven&show_icons=true&theme=dark&locale=en&layout=compact" alt="sepulven" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sepulven&show_icons=true&theme=dark&locale=en" alt="sepulven" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sepulven&theme=dark" alt="sepulven" /></p>
-
