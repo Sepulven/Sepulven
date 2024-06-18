@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **VueJS**, **Nuxt3** and **C++**
 
-- 📫 How to reach me **sepulven40028922@gmail.com**
+- 📫 How to reach me **arthur.sepulven@gmail.com**
 
 - ⚡ Fun fact **I don't think I am funny.**
 
