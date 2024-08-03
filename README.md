@@ -6,9 +6,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sepulven&label=Profile%20views&color=1a5fb4&style=flat" alt="sepulven" /> </p>
 
-- 🔭 I’m currently working on [Puraceramica](www.puraceramica.pt) and Inception.
+- 🔭 I’m currently working on Inception.
 
-- 🌱 I’m currently learning **VueJS**, **Nuxt3** and **C++**
+- 🌱 I’m currently learning **C++**
 
 - 📫 How to reach me **arthur.sepulven@gmail.com**
 
