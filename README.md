@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on Inception.
 
-- 🌱 I’m currently learning **C++**, **Java**, **LaTex**, **JavaDoc**
+- 🌱 I’m currently learning **C++**, **Java**, **LaTex**
 
 - 📫 How to reach me **arthur.sepulven@gmail.com**
 
